@@ -1,0 +1,24 @@
+{
+    "productManagers" : [],
+    "analysts" : [
+        {
+            "name" : "Bernard",
+            "picture" : ""
+        },
+        {
+            "name" : "Romain",
+            "picture" : ""
+        }
+    ],
+    "designers" : [
+        {
+
+        }
+    ],
+    "researchers" : [
+        {
+
+        }
+    ],
+    "productOwners" : []
+}
