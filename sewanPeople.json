@@ -1,194 +1,293 @@
 {
-    "productManagers" : [
+    "product managers" : [
         {
             "name" : "Alban Tormos",
-            "role" : ["PM CX"],
+            "initials" : "AT",
+            "role" : "PM CX",
             "picture" : ""
         },
         {
             "name" : "Alexandre Gosnet",
-            "role" : ["PM Mobile"],
+            "initials" : "AG",
+            "role" : "PM Mobile",
             "picture" : ""
         },
         {
             "name" : "Alexis Sengsay",
-            "role" : ["PM Cloud"],
+            "initials" : "AS",
+            "role" : "PM Cloud",
             "picture" : ""
         },
         {
             "name" : "Jean-Philippe Ribes",
-            "role" : ["PM Connect"],
+            "initials" : "JR",
+            "role" : "PM Connect",
             "picture" : ""
         },
         {
             "name" : "Justine Balsan",
-            "role" : ["PM Sophia"],
+            "initials" : "JB",
+            "role" : "PM Sophia",
             "picture" : ""
         },
         {
             "name" : "Matthias Neuvialle",
-            "role" : ["PM Voice"],
+            "initials" : "MN",
+            "role" : "PM Voice",
             "picture" : ""
         },
         {
             "name" : "Thierry Miot",
-            "role" : ["PM Microsoft"],
+            "initials" : "TM",
+            "role" : "PM Microsoft",
             "picture" : ""
         }
     ],
-    "analysts" : [
+    "business analysts" : [
         {
             "name" : "Aodren Jorge",
-            "role" : ["Business analyst"],
+            "initials" : "AJ",
+            "role" : "Business analyst",
             "picture" : ""
         },
         {
             "name" : "Bernard Le Moullec",
-            "role" : ["Business analyst"],
+            "initials" : "BL",
+            "role" : "Business analyst",
             "picture" : ""
         },
         {
             "name" : "Diego Zuluaga",
-            "role" : ["Business analyst"],
+            "initials" : "DZ",
+            "role" : "Business analyst",
             "picture" : ""
         },
         {
             "name" : "Florian Roussel",
-            "role" : ["Business analyst"],
+            "initials" : "FR",
+            "role" : "Business analyst",
             "picture" : ""
         },
         {
             "name" : "Marie-Sophie Avenet",
-            "role" : ["Business analyst"],
+            "initials" : "MA",
+            "role" : "Business analyst",
             "picture" : ""
         },
         {
             "name" : "Oussama El Mouaddib",
-            "role" : ["Business analyst"],
+            "initials" : "OM",
+            "role" : "Business analyst",
             "picture" : ""
         },
         {
             "name" : "Rémi Boiseaubert",
-            "role" : ["Business analyst"],
+            "initials" : "RB",
+            "role" : "Business analyst",
             "picture" : ""
         },
         {
             "name" : "Romain Lagardesse",
-            "role" : ["Business analyst"],
+            "initials" : "RL",
+            "role" : "Business analyst",
             "picture" : ""
         }
     ],
-    "designers" : [
+    "product designers" : [
         {
             "name" : "Enzo Zaccaro",
-            "role" : ["Designer"],
+            "initials" : "EZ",
+            "role" : "product designer",
             "picture" : ""
         },
         {
             "name" : "Jean Denarie",
-            "role" : ["Designer", "Researcher"],
+            "initials" : "JD",
+            "role" : "product designer",
             "picture" : ""
         },
         {
             "name" : "Justine Massot",
-            "role" : ["Designer", "Researcher"],
+            "initials" : "JM",
+            "role" : "product designer",
             "picture" : ""
         },
         {
             "name" : "Mai Chau",
-            "role" : ["Researcher", "Designer"],
+            "initials" : "MC",
+            "role" : "product designer",
             "picture" : ""
         },
         {
             "name" : "Mathilde Gau",
-            "role" : ["Designer", "Researcher"],
+            "initials" : "MG",
+            "role" : "product designer",
             "picture" : ""
         },
         {
             "name" : "Nicolas Martin",
-            "role" : ["Designer", "Researcher"],
+            "initials" : "NM",
+            "role" : "product designer",
             "picture" : ""
         },
         {
             "name" : "Nicolas Renau",
-            "role" : ["Designer", "Researcher"],
+            "initials" : "NR",
+            "role" : "product designer",
             "picture" : ""
         },
         {
             "name" : "Paul Jentgen",
-            "role" : ["Designer", "Researcher"],
+            "initials" : "PJ",
+            "role" : "product designer",
             "picture" : ""
         },
         {
             "name" : "Paul Molinier",
-            "role" : ["Designer", "Researcher"],
+            "initials" : "PM",
+            "role" : "product designer",
             "picture" : ""
         },
         {
             "name" : "Pierre-Antoine Nicolay",
-            "role" : ["Designer", "Researcher"],
+            "initials" : "PN",
+            "role" : "product designer",
             "picture" : ""
         }
     ],
-    "productOwners" : [
+    "user researchers" : [
+        {
+            "name" : "Enzo Zaccaro",
+            "initials" : "EZ",
+            "role" : "user researcher",
+            "picture" : ""
+        },
+        {
+            "name" : "Jean Denarie",
+            "initials" : "JD",
+            "role" : "user researcher",
+            "picture" : ""
+        },
+        {
+            "name" : "Justine Massot",
+            "initials" : "JM",
+            "role" : "user researcher",
+            "picture" : ""
+        },
+        {
+            "name" : "Mai Chau",
+            "initials" : "MC",
+            "role" : "user researcher",
+            "picture" : ""
+        },
+        {
+            "name" : "Mathilde Gau",
+            "initials" : "MG",
+            "role" : "user researcher",
+            "picture" : ""
+        },
+        {
+            "name" : "Nicolas Martin",
+            "initials" : "NM",
+            "role" : "user researcher",
+            "picture" : ""
+        },
+        {
+            "name" : "Nicolas Renau",
+            "initials" : "NR",
+            "role" : "user researcher",
+            "picture" : ""
+        },
+        {
+            "name" : "Paul Jentgen",
+            "initials" : "PJ",
+            "role" : "user researcher",
+            "picture" : ""
+        },
+        {
+            "name" : "Paul Molinier",
+            "initials" : "PM",
+            "role" : "user researcher",
+            "picture" : ""
+        },
+        {
+            "name" : "Pierre-Antoine Nicolay",
+            "initials" : "PN",
+            "role" : "user researcher",
+            "picture" : ""
+        }
+    ],
+    "product owners" : [
         {
             "name" : "Alexandre Pazin",
-            "role" : ["Product Owner"],
+            "initials" : "AP",
+            "role" : "Product Owner",
             "picture" : ""
         },
         {
             "name" : "Alexandre Vurlod",
-            "role" : ["Product Owner"],
+            "initials" : "AV",
+            "role" : "Product Owner",
             "picture" : ""
         },
         {
             "name" : "Grégoire Leroy",
-            "role" : ["Product Owner"],
+            "initials" : "GL",
+            "role" : "Product Owner",
             "picture" : ""
         },
         {
             "name" : "Inmaculada Paya Poveda",
-            "role" : ["Product Owner"],
+            "initials" : "IP",
+            "role" : "Product Owner",
             "picture" : ""
         },
         {
             "name" : "Jesús Girón Rodriguez",
-            "role" : ["Product Owner"],
+            "initials" : "JR",
+            "role" : "Product Owner",
             "picture" : ""
         },
         {
             "name" : "Laura Laporte",
-            "role" : ["Product Owner"],
+            "initials" : "LL",
+            "role" : "Product Owner",
             "picture" : ""
         },
         {
             "name" : "Maksim Sergeev",
-            "role" : ["Product Owner"],
+            "initials" : "MS",
+            "role" : "Product Owner",
             "picture" : ""
         },
         {
             "name" : "Mélanie Vadde",
-            "role" : ["Product Owner"],
+            "initials" : "MV",
+            "role" : "Product Owner",
             "picture" : ""
         },
         {
             "name" : "Morgane Zeggai",
-            "role" : ["Product Owner"],
+            "initials" : "MZ",
+            "role" : "Product Owner",
             "picture" : ""
         },
         {
             "name" : "Quentin Bassery",
-            "role" : ["Product Owner"],
+            "initials" : "QB",
+            "role" : "Product Owner",
             "picture" : ""
         },
         {
             "name" : "Tristan Walser",
-            "role" : ["Product Owner"],
+            "initials" : "TW",
+            "role" : "Product Owner",
             "picture" : ""
         },
         {
             "name" : "Joinel Edou Edou",
-            "role" : ["Product Owner"],
+            "initials" : "JE",
+            "role" : "Product Owner",
             "picture" : ""
         }
     ]
