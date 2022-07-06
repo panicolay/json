@@ -10,7 +10,7 @@
             "name" : "Alexandre Gosnet",
             "initials" : "AG",
             "role" : "PM Mobile",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/alexandre-g.jpg"
         },
         {
             "name" : "Alexis Sengsay",
@@ -22,25 +22,25 @@
             "name" : "Jean-Philippe Ribes",
             "initials" : "JR",
             "role" : "PM Connect",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/jean-philippe-r.jpg"
         },
         {
             "name" : "Justine Balsan",
             "initials" : "JB",
             "role" : "PM Sophia",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/justine-b.jpg"
         },
         {
             "name" : "Matthias Neuvialle",
             "initials" : "MN",
             "role" : "PM Voice",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/matthias-n.jpg"
         },
         {
             "name" : "Thierry Miot",
             "initials" : "TM",
             "role" : "PM Microsoft",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/thierry-m.jpg"
         }
     ],
     "business analysts" : [
@@ -48,31 +48,25 @@
             "name" : "Aodren Jorge",
             "initials" : "AJ",
             "role" : "Business analyst",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/aodren-j.jpg"
         },
         {
             "name" : "Bernard Le Moullec",
             "initials" : "BL",
             "role" : "Business analyst",
-            "picture" : ""
-        },
-        {
-            "name" : "Diego Zuluaga",
-            "initials" : "DZ",
-            "role" : "Business analyst",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/bernard-l.jpg"
         },
         {
             "name" : "Florian Roussel",
             "initials" : "FR",
             "role" : "Business analyst",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/florian-r.jpg"
         },
         {
             "name" : "Marie-Sophie Avenet",
             "initials" : "MA",
             "role" : "Business analyst",
-            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/marie-sophie.jpg"
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/marie-sophie-a.jpg"
         },
         {
             "name" : "Oussama El Mouaddib",
@@ -98,13 +92,13 @@
             "name" : "Enzo Zaccaro",
             "initials" : "EZ",
             "role" : "Product designer",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/enzo-z.jpg"
         },
         {
             "name" : "Jean Denarie",
             "initials" : "JD",
             "role" : "Product designer",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/jean-d.jpg"
         },
         {
             "name" : "Justine Massot",
@@ -116,19 +110,19 @@
             "name" : "Mai Chau",
             "initials" : "MC",
             "role" : "Product designer",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/mai-c.jpg"
         },
         {
             "name" : "Mathilde Gau",
             "initials" : "MG",
             "role" : "Product designer",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/mathilde-g.jpg"
         },
         {
             "name" : "Nicolas Martin",
             "initials" : "NM",
             "role" : "Product designer",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/nicolas-m.jpg"
         },
         {
             "name" : "Nicolas Renau",
@@ -146,13 +140,13 @@
             "name" : "Paul Molinier",
             "initials" : "PM",
             "role" : "Product designer",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/paul-m.jpg"
         },
         {
             "name" : "Pierre-Antoine Nicolay",
             "initials" : "PN",
             "role" : "Product designer",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/pierre-antoine-n.jpg"
         }
     ],
     "user researchers" : [
@@ -160,13 +154,13 @@
             "name" : "Enzo Zaccaro",
             "initials" : "EZ",
             "role" : "User researcher",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/enzo-z.jpg"
         },
         {
             "name" : "Jean Denarie",
             "initials" : "JD",
             "role" : "User researcher",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/jean-d.jpg"
         },
         {
             "name" : "Justine Massot",
@@ -178,19 +172,19 @@
             "name" : "Mai Chau",
             "initials" : "MC",
             "role" : "User researcher",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/mai-c.jpg"
         },
         {
             "name" : "Mathilde Gau",
             "initials" : "MG",
             "role" : "User researcher",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/mathilde-g.jpg"
         },
         {
             "name" : "Nicolas Martin",
             "initials" : "NM",
             "role" : "User researcher",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/nicolas-m.jpg"
         },
         {
             "name" : "Nicolas Renau",
@@ -202,19 +196,19 @@
             "name" : "Paul Jentgen",
             "initials" : "PJ",
             "role" : "User researcher",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/paul-j.jpg"
         },
         {
             "name" : "Paul Molinier",
             "initials" : "PM",
             "role" : "User researcher",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/paul-m.jpg"
         },
         {
             "name" : "Pierre-Antoine Nicolay",
             "initials" : "PN",
             "role" : "User researcher",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/pierre-antoine-n.jpg"
         }
     ],
     "product owners" : [
@@ -234,25 +228,31 @@
             "name" : "Grégoire Leroy",
             "initials" : "GL",
             "role" : "Product Owner",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/gregoire-l.jpg"
         },
         {
-            "name" : "Inmaculada Paya Poveda",
+            "name" : "Inma Paya Poveda",
             "initials" : "IP",
             "role" : "Product Owner",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/inma-p.jpg"
         },
         {
             "name" : "Jesús Girón Rodriguez",
             "initials" : "JR",
             "role" : "Product Owner",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/jesus-g.jpg"
         },
         {
             "name" : "Laura Laporte",
             "initials" : "LL",
             "role" : "Product Owner",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/laura-l.jpg"
+        },
+        {
+            "name" : "Joinel Edou Edou",
+            "initials" : "JE",
+            "role" : "Product Owner",
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/joinel-e.jpg"
         },
         {
             "name" : "Maksim Sergeev",
@@ -270,23 +270,17 @@
             "name" : "Morgane Zeggai",
             "initials" : "MZ",
             "role" : "Product Owner",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/morgane-z.jpg"
         },
         {
             "name" : "Quentin Bassery",
             "initials" : "QB",
             "role" : "Product Owner",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/quentin-b.jpg"
         },
         {
             "name" : "Tristan Walser",
             "initials" : "TW",
-            "role" : "Product Owner",
-            "picture" : ""
-        },
-        {
-            "name" : "Joinel Edou Edou",
-            "initials" : "JE",
             "role" : "Product Owner",
             "picture" : ""
         }
