@@ -72,7 +72,7 @@
             "name" : "Marie-Sophie Avenet",
             "initials" : "MA",
             "role" : "Business analyst",
-            "picture" : ""
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/marie-sophie.jpg"
         },
         {
             "name" : "Oussama El Mouaddib",
@@ -140,7 +140,7 @@
             "name" : "Paul Jentgen",
             "initials" : "PJ",
             "role" : "Product designer",
-            "picture" : "test"
+            "picture" : "https://sewan-dzn.s3.fr-par.scw.cloud/team/paul-j.jpg"
         },
         {
             "name" : "Paul Molinier",
